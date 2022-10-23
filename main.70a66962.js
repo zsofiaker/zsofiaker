@@ -438,11 +438,11 @@
             function i(t) {
                 new s.a("#typed", {
                     stringsElement: "#typed-strings",
-                    typeSpeed: 100,
+                    typeSpeed: 50,
                     backSpeed: 20,
-                    loop: !0,
+                    loop: false,
                     loopCount: 1 / 0,
-                    showCursor: !0,
+                    showCursor: true,
                     shuffle: !1
                 })
             }
