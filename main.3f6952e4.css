@@ -1852,7 +1852,7 @@ output {
     box-shadow 0.15s ease-in-out;
   -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-  font-size:small;
+  font-size:x-small;
 }
 .form-control:focus {
   border-color: #66afe9;
