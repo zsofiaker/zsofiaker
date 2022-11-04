@@ -440,7 +440,7 @@
                     stringsElement: "#typed-strings",
                     typeSpeed: 50,
                     backSpeed: 20,
-                    loop: false,
+                    loop: true,
                     loopCount: 1 / 0,
                     showCursor: true,
                     shuffle: !1
